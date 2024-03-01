@@ -1,5 +1,5 @@
 const { scenario } = require('./scenario');
-const Steps = require('./samsung-a50-fb-selection.json');
+const Steps = require('./oppo-a15-fb-selection.json');
 const args = process.argv.slice(2);
 const deviceId = args[0];
 const RUN_TIME_INTERVAL = 120000;

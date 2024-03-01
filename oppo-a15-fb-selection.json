@@ -1,0 +1,23 @@
+[
+  { "position": { "x": 363, "y": 597 }, "type": "tap", "timeout": 0, "note": "tap icon" },
+  {
+    "position": { "x1": 124, "y1": 533, "x2": 349, "y2": 533 },
+    "type": "swipe",
+    "duration": 1000,
+    "timeout": 2000,
+    "note": "swipe right to select music"
+  },
+  { "position": { "x": 124, "y": 533 }, "type": "tap", "timeout": 500, "note": "add story" },
+  { "position": { "x": 504, "y": 407 }, "type": "tap", "timeout": 3000, "note": "select music" },
+  { "position": { "x": 118, "y": 615 }, "type": "tap", "timeout": 1000, "note": "select bg" },
+  { "position": { "x": 578, "y": 1360 }, "type": "tap", "timeout": 1000, "note": "tap share button" },
+  { "position": { "x": 515, "y": 1570 }, "type": "tap", "timeout": 20000, "note": "tap multiple apps" },
+  {
+    "position": { "x1": 277, "y1": 800, "x2": 510, "y2": 800 },
+    "type": "swipe",
+    "duration": 500,
+    "timeout": 500,
+    "note": "swipe to display kill all button"
+  },
+  { "position": { "x": 146, "y": 748 }, "type": "tap", "timeout": 500, "note": "tap to kill all" }
+]
