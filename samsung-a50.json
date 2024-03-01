@@ -1,0 +1,10 @@
+[
+  { "position": { "x": 440, "y": 1320 }, "type": "tap", "timeout": 0, "note": "tap icon" },
+  { "position": { "x": 160, "y": 850 }, "type": "tap", "timeout": 3000, "note": "add story" },
+  { "position": { "x": 540, "y": 500 }, "type": "tap", "timeout": 1000, "note": "tap music" },
+  { "position": { "x": 540, "y": 660 }, "type": "tap", "timeout": 3000, "note": "select music" },
+  { "position": { "x": 111, "y": 750 }, "type": "tap", "timeout": 1000, "note": "select bg" },
+  { "position": { "x": 820, "y": 2130 }, "type": "tap", "timeout": 2000, "note": "tap share button" },
+  { "position": { "x": 232, "y": 2285 }, "type": "tap", "timeout": 4000, "note": "tap multiple apps" },
+  { "position": { "x": 525, "y": 1859 }, "type": "tap", "timeout": 500, "note": "tap kill all" }
+]
