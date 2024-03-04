@@ -1,5 +1,5 @@
 const { scenario } = require('./scenario');
-const Steps = require('./nokia-g21-fb-selection.json');
+const Steps = require('./vsmart-fb-selection.json');
 
 const args = process.argv.slice(2);
 const deviceId = args[0];
