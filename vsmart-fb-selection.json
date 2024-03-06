@@ -16,6 +16,7 @@
   { "position": { "x": 364, "y": 1364 }, "type": "tap", "timeout": 200, "note": "select space" },
   { "position": { "x": 178, "y": 1068 }, "type": "tap", "timeout": 200, "note": "select e" },
   { "position": { "x": 573, "y": 1264 }, "type": "tap", "timeout": 200, "note": "select m" },
+  { "position": { "x": 656, "y": 1366 }, "type": "tap", "timeout": 200, "note": "select enter" },
 
   { "position": { "x": 343, "y": 308 }, "type": "tap", "timeout": 2000, "note": "select music" },
   { "position": { "x": 139, "y": 647 }, "type": "tap", "timeout": 1000, "note": "close select bg" },
