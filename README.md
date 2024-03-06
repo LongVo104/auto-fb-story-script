@@ -6,6 +6,8 @@ You need to:
 - Enable `USB Debugging` in your Android device (`Settings > Developer Options > USB Debugging`)
 - I recommend installing Node using Homebrew. Run the following commands in a Terminal after installing Homebrew: `brew install node`.
 <br>
+
+## Easy method
 Now, connect your device to your computer, via a USB cable, and run the following bash script in a terminal:
 
 ```
