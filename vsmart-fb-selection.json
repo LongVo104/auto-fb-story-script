@@ -8,9 +8,18 @@
     "note": "swipe right to select music"
   },
   { "position": { "x": 145, "y": 600 }, "type": "tap", "timeout": 500, "note": "add story" },
-  { "position": { "x": 277, "y": 386 }, "type": "tap", "timeout": 3000, "note": "select music" },
+  { "position": { "x": 340, "y": 173 }, "type": "tap", "timeout": 2000, "note": "select search music" },
+
+  { "position": { "x": 326, "y": 1068 }, "type": "tap", "timeout": 200, "note": "select t" },
+  { "position": { "x": 536, "y": 1068 }, "type": "tap", "timeout": 200, "note": "select i" },
+  { "position": { "x": 573, "y": 1264 }, "type": "tap", "timeout": 200, "note": "select m" },
+  { "position": { "x": 364, "y": 1364 }, "type": "tap", "timeout": 200, "note": "select space" },
+  { "position": { "x": 178, "y": 1068 }, "type": "tap", "timeout": 200, "note": "select e" },
+  { "position": { "x": 573, "y": 1264 }, "type": "tap", "timeout": 200, "note": "select m" },
+
+  { "position": { "x": 343, "y": 308 }, "type": "tap", "timeout": 2000, "note": "select music" },
   { "position": { "x": 139, "y": 647 }, "type": "tap", "timeout": 1000, "note": "close select bg" },
-  { "position": { "x": 574, "y": 1313 }, "type": "tap", "timeout": 1000, "note": "tap share button" },
-  { "position": { "x": 187, "y": 1509 }, "type": "tap", "timeout": 20000, "note": "tap multiple apps" },
+  { "position": { "x": 574, "y": 1313 }, "type": "tap", "timeout": 2000, "note": "tap share button" },
+  { "position": { "x": 187, "y": 1509 }, "type": "tap", "timeout": 30000, "note": "tap multiple apps" },
   { "position": { "x": 367, "y": 1193 }, "type": "tap", "timeout": 500, "note": "tap kill all" }
 ]
