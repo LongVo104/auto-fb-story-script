@@ -11,6 +11,6 @@
   { "position": { "x": 504, "y": 550 }, "type": "tap", "timeout": 3000, "note": "select music" },
   { "position": { "x": 182, "y": 886 }, "type": "tap", "timeout": 1000, "note": "select bg" },
   { "position": { "x": 843, "y": 2018 }, "type": "tap", "timeout": 1000, "note": "tap share button" },
-  { "position": { "x": 232, "y": 2285 }, "type": "tap", "timeout": 30000, "note": "tap multiple apps" },
+  { "position": { "x": 232, "y": 2285 }, "type": "tap", "timeout": 40000, "note": "tap multiple apps" },
   { "position": { "x": 525, "y": 1859 }, "type": "tap", "timeout": 500, "note": "tap kill all" }
 ]
